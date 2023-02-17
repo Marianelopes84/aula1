@@ -1,6 +1,7 @@
 public class numero {
     public static void main (String[] args) {
-        num= 
-        System.out.println(media);
+       for (int i=1; i<=100;i++)
+        System.out.println(i+"");
     
+    }
 }
