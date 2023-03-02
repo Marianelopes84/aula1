@@ -1,4 +1,4 @@
-public class switch {
+public class teste_switch {
     public static void main (String [] args){
         int cmd= 1;
         switch (cmd) {
