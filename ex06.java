@@ -9,6 +9,4 @@ public public class ex06 {
             continua = 1;
         } while (continua < 0);
       }  
-} {
-    
-}
+} 
