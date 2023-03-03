@@ -6,7 +6,7 @@ public public class ex06 {
             System.out.println("14997100554");
             System.out.println("Rua Sao Paulo, 312");
            
-            continua = 1;
+            continua = 1; 
         } while (continua < 0);
       }  
 } 
