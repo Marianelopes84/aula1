@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aula7",
+            "request": "launch",
+            "mainClass": "aula7",
+            "projectName": "aula1_79d39006"
+        },
+        {
+            "type": "java",
             "name": "ex07",
             "request": "launch",
             "mainClass": "ex07",
