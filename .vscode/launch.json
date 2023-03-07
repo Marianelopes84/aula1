@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex07",
+            "request": "launch",
+            "mainClass": "ex07",
+            "projectName": "aula1_79d39006"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "aula1_79d39006"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
