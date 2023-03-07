@@ -1,4 +1,4 @@
-public public class lala {
+public class lala {
     public static void main(String[] args){
         int continua = 0;
         do {
